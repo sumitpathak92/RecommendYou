@@ -4,7 +4,7 @@ Fabric==1.10.2
 Paver==1.2.4
 PySocks==1.5.6
 PyVirtualDisplay==0.2
-PyYAML==3.11
+PyYAML==5.4
 argparse==1.2.1
 astroid==1.4.5
 beautifulsoup4==4.4.1
