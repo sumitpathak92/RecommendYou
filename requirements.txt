@@ -37,7 +37,7 @@ neo4jrestclient==2.1.1
 numpy==1.11.0
 oauth2==1.9.0.post1
 oauth2client==1.5.2
-paramiko==1.16.0
+paramiko==2.10.1
 pbr==1.8.1
 psycopg2==2.6.1
 py2neo==2.0.8
